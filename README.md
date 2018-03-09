@@ -1,4 +1,4 @@
-# c9-lemp
+# c9-lmp
 
 This repo holds all the script, config files and commands that you might want to
 use to set up a LEMP environment using NGINX and PHP-FPM instead the default
